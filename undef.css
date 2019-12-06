@@ -1,0 +1,204 @@
+html, body{height: 100%;}
+html, body{height: 100%;}
+
+.red{
+position: absolute; 
+left: 6px;
+width: 17px;
+  padding: 12px;
+  z-index: 1
+}
+.yellow{
+position: absolute; 
+left: 36px;
+width: 17px;
+  padding: 12px;
+  z-index: 1
+}
+.green{
+position: absolute; 
+left: 66px;
+width: 17px;
+  padding: 12px;
+  z-index: 1
+}
+.arrows{
+ position: absolute; 
+   left: 1315px;
+width: 15px;
+  padding: 10px;
+  z-index: 2
+}
+.leftar{
+position: absolute; 
+top: 58px;
+left: 8px;
+width: 25px;
+  padding: 10px;
+    z-index: 2
+}
+.rightar{
+position: absolute; 
+top: 60px;
+left: 48px;
+width: 25px;
+  padding: 10px;
+  z-index: 2
+}
+.refresh{
+position: absolute; 
+top: 60px;
+left: 88px;
+width: 20px;
+  padding: 10px;
+  z-index: 2
+}
+.menu{
+position: absolute; 
+top: 58px;
+left: 1315px;
+width: 20px;
+  padding: 12px;
+  z-index: 2
+}
+.favorite{
+position: absolute; 
+top: 45px;
+left: 1210px;
+width: 25px;
+  padding: 20px;
+  z-index: 3
+}
+.shapebar{
+	position: absolute; 
+top: 60px;
+left: 200px; 
+width: 1055px;
+z-index: 2
+}
+.shapebarr{
+	position: absolute; 
+top: 10px;
+left: 0px; 
+width: 1355px;
+z-index: 1
+}
+.shape{
+	position: absolute; 
+width: 15px;
+  padding: 12px;
+  left: 400px;
+z-index: 2
+}
+.tabactive{
+	position: absolute; 
+top: 5px;
+left: 440px; 
+width: 405px;
+z-index: 1
+}
+.shape1{
+	position: absolute; 
+width: 15px;
+  padding: 12px;
+  left: 785px;
+z-index: 2
+}
+.shapebar1{
+	position: absolute;
+top: -10px ;	
+width: 1355px;
+  left: 1px;
+z-index: 0;
+}
+.shape2{
+position: absolute; 
+left: 1170px;
+width: 40px;
+  padding: 122px;
+  z-index: 3
+}
+.activebtn1{
+position: absolute; 
+left: 1163px;
+width: 70px;
+  padding: 112px;
+  z-index: 1
+}
+.activebtn{
+position: absolute; 
+left: -80px;
+width: 110px;
+  padding: 115px;
+  z-index: 2
+}
+.bar{
+position: absolute; 
+left: -108px;
+width: 1364px;
+  padding: 100px;
+  z-index: 1
+}
+.hoverbtn{
+position: absolute; 
+left: 70px;
+width: 115px;
+  padding: 115px;
+  z-index: 2
+}
+.hoverbtn1{
+position: absolute; 
+left: 220px;
+width: 115px;
+  padding: 115px;
+  z-index: 2
+}
+.hoverbtn2{
+position: absolute; 
+left: 370px;
+width: 115px;
+  padding: 115px;
+  z-index: 2
+}
+.hoverbtn3{
+position: absolute; 
+left: 520px;
+width: 115px;
+  padding: 115px;
+  z-index: 2
+}
+.mask{
+position: absolute; 
+left: -1px;
+width: 1360px;
+  top: -40px;
+  z-index: 0
+}
+.bg{
+position: absolute; 
+left: -1px;
+width: 1360px;
+  top: 630px;
+  z-index: 0
+}
+.search{
+position: absolute; 
+left: 600px;
+width: 160px;
+  top: 280px;
+  z-index: 0
+}
+.google{
+position: absolute; 
+left: 500px;
+width: 360px;
+  top: 480px;
+  z-index: 0
+}
+.btnshape{
+position: absolute; 
+left: 600px;
+width: 160px;
+  top: 780px;
+  z-index: 0
+}

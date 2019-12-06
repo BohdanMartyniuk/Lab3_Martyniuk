@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="sty.css">
+    <title>Орбита луны на CSS3</title>
+  </head>
+  <body>   
+    <img src="red.png" alt="Земля" class="earth">
+    <img src="yellow.png" alt="Луна" class="moon">
+	<img src="greeb.png" alt="Земля" class="earth">
+    <img src="arrows.png" alt="Луна" class="moon">
+	<img src="left arrow.png" alt="Земля" class="earth">
+    <img src="right arrow.png" alt="Луна" class="moon">
+	<img src="refresh icon.png" alt="Земля" class="earth">
+    <img src="menu.png" alt="Луна" class="moon">
+	<img src="favorite icon.png" alt="Земля" class="earth">
+    <img src="shape bar.png" alt="Луна" class="moon">
+	<img src="shape.png" alt="Земля" class="earth">
+    <img src="shape bar + ac.png" alt="Луна" class="moon">
+	<img src="shape1.png" alt="Земля" class="earth">
+    <img src="tab inactive.png" alt="Луна" class="moon">
+	<img src="shape bar1.png" alt="Луна" class="moon">
+	<img src="categories.png" alt="Земля" class="earth">
+    <img src="mask area.png" alt="Луна" class="moon">
+	<img src="general background.png" alt="Земля" class="earth">
+    <img src="shadow.png" alt="Луна" class="moon">
+	<img src="bg color.png" alt="Земля" class="earth">
+    <img src="active btn.png" alt="Луна" class="moon">
+	<img src="hover btn.png" alt="Земля" class="earth">
+    <img src="shape2.png" alt="Луна" class="moon">
+	<img src="active btn1.png" alt="Земля" class="earth">
+    <img src="bar.png" alt="Луна" class="moon">
+	<img src="search btn.png" alt="Земля" class="earth">
+    <img src="Gogle chrome.png" alt="Луна" class="moon">
+	<img src="btn shape.png" alt="Земля" class="earth">
+    <img src="bg.png" alt="Луна" class="moon">
+    </body>
+</html>
